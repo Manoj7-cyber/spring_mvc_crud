@@ -1,5 +1,4 @@
 # spring_mvc_crud
-Whene we run the application it will open..
+This is simple spring mvc crud application using spring jdbc template
 
-![starting page]('/images/1.png')
 
